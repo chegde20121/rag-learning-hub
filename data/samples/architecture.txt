@@ -1,0 +1,2 @@
+KnowledgeForge uses Python for ingestion.
+Documents will be indexed in a vector database.

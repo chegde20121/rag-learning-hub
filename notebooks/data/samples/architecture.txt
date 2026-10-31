@@ -1,0 +1,5 @@
+KnowledgeForge is a document retrieval system.
+    It uses Python for ingestion.
+    Documents are chunked and embedded.
+    Chroma stores the vectors.
+    Ollama Qwen generates answers using retrieved context.
